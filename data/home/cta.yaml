@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Scale your digital presence in one month!"
-  image: "images/cta-scale.png"
+  image: "images/cta-scale.webp"
   button:
     label: "Let's talk"
     url: "/contact"

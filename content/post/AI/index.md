@@ -5,7 +5,9 @@ description = "Artificial. Automated. Auxiliary. Augmented. Assisted."
 tags = ["ai","artificial_intelligence","chatGPT"]
 +++
 
-## I asked ChatGPT to write me a joke...
+# Artificial Intelligence
+
+I asked ChatGPT to write me a joke...
 
 "Why did the AI go to therapy?
 Because it was feeling existential and questioning its purpose." 

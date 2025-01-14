@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SEO on </title>
+    <title>SEO on Place and Time</title>
     <link>http://localhost:1313/tags/seo/</link>
-    <description>Recent content in SEO on </description>
+    <description>Recent content in SEO on Place and Time</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <atom:link href="http://localhost:1313/tags/seo/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/post/digital_marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/digital_marketing/</guid>
-      <description>Why is Digital Marketing So Important? Increased Visibility: Digital marketing allows you to reach a global audience online. Through search engines, social media, and other online channels, you can connect with potential customers around the world.</description>
+      <description>Why is Digital Marketing So Important? In an age where the average joe spends at least a quarter of their net lifetime on their devices, it goes without saying that marketing your wares on the digital web is an absolute no-brainer.</description>
     </item>
   </channel>
 </rss>

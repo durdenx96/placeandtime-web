@@ -5,7 +5,9 @@ description = "The key to reaching new customers, building brand awareness and d
 tags = ["digital_marketing","SEO","social_media_marketing","content_marketing"]
 +++
 
-## Why is Digital Marketing So Important?
+# Why is Digital Marketing So Important?
+
+In an age where the average joe spends at least a quarter of their net lifetime on their devices, it goes without saying that marketing your wares on the digital web is an absolute no-brainer. Here's more reasons why this is a good idea...
 
 * Increased Visibility: Digital marketing allows you to reach a global audience online. Through search engines, social media, and other online channels, you can connect with potential customers around the world.
 

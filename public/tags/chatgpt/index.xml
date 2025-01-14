@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ChatGPT on </title>
+    <title>ChatGPT on Place and Time</title>
     <link>http://localhost:1313/tags/chatgpt/</link>
-    <description>Recent content in ChatGPT on </description>
+    <description>Recent content in ChatGPT on Place and Time</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <atom:link href="http://localhost:1313/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/post/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/ai/</guid>
-      <description>I asked ChatGPT to write me a joke&amp;hellip; &amp;ldquo;Why did the AI go to therapy? Because it was feeling existential and questioning its purpose.</description>
+      <description>Artificial Intelligence I asked ChatGPT to write me a joke&amp;hellip;&#xA;&amp;ldquo;Why did the AI go to therapy? Because it was feeling existential and questioning its purpose.</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>Posts on Place and Time</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Posts on Place and Time</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
@@ -12,21 +12,21 @@
       <link>http://localhost:1313/post/brand_image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/brand_image/</guid>
-      <description>Why It&amp;rsquo;s a Big Deal and How to Get Started In today&amp;rsquo;s crowded marketplace, a strong brand identity is more than just a logo.</description>
+      <description>&amp;lsquo;Brand Image&amp;rsquo;: Why Its a Big Deal and How to Get Started In today&amp;rsquo;s crowded marketplace, a strong brand identity is more than just a logo.</description>
     </item>
     <item>
       <title>Digital Marketing: The Why &amp; How</title>
       <link>http://localhost:1313/post/digital_marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/digital_marketing/</guid>
-      <description>Why is Digital Marketing So Important? Increased Visibility: Digital marketing allows you to reach a global audience online. Through search engines, social media, and other online channels, you can connect with potential customers around the world.</description>
+      <description>Why is Digital Marketing So Important? In an age where the average joe spends at least a quarter of their net lifetime on their devices, it goes without saying that marketing your wares on the digital web is an absolute no-brainer.</description>
     </item>
     <item>
       <title>The &#39;A&#39; in &#39;AI&#39;: Getting Started</title>
       <link>http://localhost:1313/post/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/ai/</guid>
-      <description>I asked ChatGPT to write me a joke&amp;hellip; &amp;ldquo;Why did the AI go to therapy? Because it was feeling existential and questioning its purpose.</description>
+      <description>Artificial Intelligence I asked ChatGPT to write me a joke&amp;hellip;&#xA;&amp;ldquo;Why did the AI go to therapy? Because it was feeling existential and questioning its purpose.</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
   {{- end -}}
 {{- end -}}
 
-{{- $logo := resources.Get "images/logo.png" -}}
+{{- $logo := resources.Get "images/logo.webp" -}}
 {{- with .Site.Params.logo -}}
   {{- with resources.Get . -}}
     {{- $logo = . -}}

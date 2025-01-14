@@ -2,7 +2,7 @@ baseURL: "https://www.placeandtime.netlify.app"
 theme: "up-business-theme"
 languageCode: "en-uk"
 
-title: ""
+title: "Place and Time"
 
 # googleAnalytics: ""
 
@@ -10,12 +10,12 @@ summaryLength: 20
 
 params:
   title: "Place & Time"
-  description: "Helping Businesses, Brands and Creative Professionals Thrive in the Digital World."
+  description: "Place and Time is a digital agency in Abuja Nigeria. We help businesses brands and creatives of all sizes boost their online visibility and thrive with data-driven digital solutions."
   favicon: "favicon.png"
 
   license: 
    - "fill licence" 
-  logo: "images/logo.png"
+  logo: "images/logo.webp"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -32,8 +32,7 @@ params:
     - "Abuja, Nigeria"
 
   contact:
-    - "placeandtimeabj@gamail.com"
-    - "+234 8128338730"
+    - "+234 812 833 8730"
 
   copyright: "Copyright ©2025 Place & Time"
 

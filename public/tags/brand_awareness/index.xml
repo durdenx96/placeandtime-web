@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brand_awareness on </title>
+    <title>Brand_awareness on Place and Time</title>
     <link>http://localhost:1313/tags/brand_awareness/</link>
-    <description>Recent content in Brand_awareness on </description>
+    <description>Recent content in Brand_awareness on Place and Time</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <atom:link href="http://localhost:1313/tags/brand_awareness/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/post/brand_image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/brand_image/</guid>
-      <description>Why It&amp;rsquo;s a Big Deal and How to Get Started In today&amp;rsquo;s crowded marketplace, a strong brand identity is more than just a logo.</description>
+      <description>&amp;lsquo;Brand Image&amp;rsquo;: Why Its a Big Deal and How to Get Started In today&amp;rsquo;s crowded marketplace, a strong brand identity is more than just a logo.</description>
     </item>
   </channel>
 </rss>
