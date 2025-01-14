@@ -1,0 +1,24 @@
+{{- $favicon := resources.Get "images/favicon.png" -}}
+{{- with .Site.Params.favicon -}}
+  {{- with resources.Get . -}}
+    {{- $favicon = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $logo := resources.Get "images/logo.png" -}}
+{{- with .Site.Params.logo -}}
+  {{- with resources.Get . -}}
+    {{- $logo = . -}}
+  {{- end -}}
+{{- end -}}
+
+
+{{- $favicon196png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-196.png" "size" "196x196") -}}
+
+<!-- The FAVICON THAT IS DISPLAYED! -->
+<link rel="icon" href="{{ $favicon196png.Permalink }}" sizes="196x196">
+
+{{- $resourceWebManifestOptions := (dict) -}}
+{{- $resourceWebManifestTemplate := resources.Get "site.webmanifest" -}}
+{{- $resourceWebManifest := $resourceWebManifestTemplate | resources.ExecuteAsTemplate "site.webmanifest" . -}}
+<link rel="manifest" href="{{ $resourceWebManifest.Permalink }}">

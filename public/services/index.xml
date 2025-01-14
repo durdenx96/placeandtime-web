@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on </title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on </description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/services/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/automation/</guid>
+      <description>Streamline your workflows. We implement automation solutions to streamline your processes, improve efficiency and save you valuable resources using tools like mailchimp, make.</description>
+    </item>
+    <item>
+      <title>Branding</title>
+      <link>http://localhost:1313/services/branding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/branding/</guid>
+      <description>Tell a compelling brand story. We help define your brand identity, develop a strong visual language and create a consistent brand experience across all touchpoints.</description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>http://localhost:1313/services/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/consulting/</guid>
+      <description>Expert guidance for your digital journey. Our experienced consultants provide strategic guidance on all aspects of your digital marketing strategy. We want to understand your business goals and develop customized solutions that deliver measurable results through continuous optimization.</description>
+    </item>
+    <item>
+      <title>Content/Creative Directing</title>
+      <link>http://localhost:1313/services/creative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/creative/</guid>
+      <description>Engage your audience with compelling content. We create high-quality, engaging content that resonates with your target audience and drives meaningful interactions.</description>
+    </item>
+    <item>
+      <title>Digital Marketing</title>
+      <link>http://localhost:1313/services/digital_marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/digital_marketing/</guid>
+      <description>Increase your online visibility. Our data-driven approach ensures you reach your target audience, build brand awareness, and drive website traffic. Utilizing Search Engine Optimization (SEO), social media marketing and advertising, we will get you in front of the right people fast.</description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>http://localhost:1313/services/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/photography/</guid>
+      <description>Bringing your vision to life. We specialize in creating high-quality headshots for individuals and businesses. Whether you need event, product or real estate photography, with visual storytelling at our core we have the expertise to bring your vision to life.</description>
+    </item>
+    <item>
+      <title>Video Production</title>
+      <link>http://localhost:1313/services/video_production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/video_production/</guid>
+      <description>Bring your brand to life. We produce high-quality videos that tell your brand story, showcase your products or services, and engage your audience.</description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/services/web_dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/web_dev/</guid>
+      <description>Transform your online presence. We design and develop stunning, user-friendly websites and mobile applications that are both visually appealing and highly functional.</description>
+    </item>
+  </channel>
+</rss>

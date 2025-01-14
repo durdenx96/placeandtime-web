@@ -1,0 +1,84 @@
+baseURL: "https://www.placeandtime.netlify.app"
+theme: "up-business-theme"
+languageCode: "en-uk"
+
+title: ""
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Place & Time"
+  description: "Helping Businesses, Brands and Creative Professionals Thrive in the Digital World."
+  favicon: "favicon.png"
+
+  license: 
+   - "fill licence" 
+  logo: "images/logo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+
+  social:
+    instagram: "https://www.instagram.com/placeandtimeng/"
+    facebook: "#"
+    twitter: "https://www.x.com/placeandtimeng/"
+
+  location:
+    - "Abuja, Nigeria"
+
+  contact:
+    - "placeandtimeabj@gamail.com"
+    - "+234 8128338730"
+
+  copyright: "Copyright ©2025 Place & Time"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Contact Us"
+      url: "/contact"
+      weight: 2
+
+    - name: "Services"
+      url: "/services"
+      weight: 3
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 4
+
+  buttons:
+    - name: "Book a call"
+      url: "/contact"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Contact Us"
+      url: "/contact"
+      weight: 2
+
+    - name: "Services"
+      url: "/services"
+      weight: 3
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 4
+
+taxonomies:
+  series: "series"
+  tags: "tags"
+

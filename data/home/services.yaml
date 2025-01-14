@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our services"
+  text: "Data is our compass. We use it to navigate your digital marketing journey, driving sales, boosting engagement, and maximizing your ROI."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Web Design & Development"
+      text: "Build professional, user-friendly websites that convert visitors into customers through compelling design and intuitive user experiences."
+      button:
+        label: "Learn more"
+        url: "/services"
+
+    - image: "images/services-SEO.png"
+      title: "Search Everywhere Optimization"
+      text: "Improve your search rankings across major platforms to get found by the right customer where they are."
+      button:
+        label: "Learn more"
+        url: "/services"
+
+    - image: "images/services-SMM.png"
+      title: "Digital Marketing"
+      text: "Build brand awareness, target customer touchpoints and drive meaningful engagement across platforms with user generated content."
+      button:
+        label: "Learn more"
+        url: "/services"

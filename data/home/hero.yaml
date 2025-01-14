@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Where **Creativity** meets **Conversion**"
+  text: "Web set up, branding, marketing and advertising...we handle digital so you can focus on business."
+
+  buttonPrimary:
+    label: "Services"
+    url: "/services"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: "/contact"
+
