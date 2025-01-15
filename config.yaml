@@ -1,4 +1,4 @@
-baseURL: "https://www.placeandtime.netlify.app"
+baseURL: "https://placeandtime.netlify.app/"
 theme: "up-business-theme"
 languageCode: "en-uk"
 
@@ -15,7 +15,7 @@ params:
 
   license: 
    - "fill licence" 
-  logo: "images/logo.webp"
+  logo: "/images/logo.webp"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -34,7 +34,14 @@ params:
   contact:
     - "+234 812 833 8730"
 
-  copyright: "Copyright ©2025 Place & Time"
+  copyright: 
+    - "Copyright ©2025 Place & Time"
+
+  blog: 
+    enable: true 
+
+  toc:
+    enable: true
 
 menus:
   main:

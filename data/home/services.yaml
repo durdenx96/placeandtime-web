@@ -2,8 +2,8 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our services"
-  text: "Data is our compass. We use it to navigate your digital marketing journey, driving sales, boosting engagement, and maximizing your ROI."
+  title: "What we do ..."
+  text: "Data is our compass. We use it to navigate your digital marketing journey, driving sales, boosting engagement and maximizing your ROI."
   cards:
     - image: "images/services-web-development.webp"
       title: "Web Design & Development"
