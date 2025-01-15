@@ -13,7 +13,7 @@ content:
         url: "/services"
 
     - image: "images/services-SEO.webp"
-      title: "Search Everywhere Optimization"
+      title: "Search 'Everywhere' Optimization"
       text: "Improve your search rankings across major platforms to get found by the right customers where they are."
       button:
         label: "Learn more"
