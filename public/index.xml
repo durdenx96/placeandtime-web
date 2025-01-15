@@ -16,13 +16,6 @@
       <description></description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
-    </item>
-    <item>
       <title>Automation</title>
       <link>http://localhost:1313/services/automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,7 +48,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description> Your Name: Your Email: Message: Submit </description>
+      <description> Your Name: Your Email: Your Phone Number: Message: Submit </description>
     </item>
     <item>
       <title>Content/Creative Directing</title>
@@ -79,11 +72,25 @@
       <description>Why is Digital Marketing So Important? In an age where the average joe spends at least a quarter of their net lifetime on their devices, it goes without saying that marketing your wares on the digital web is an absolute no-brainer.</description>
     </item>
     <item>
+      <title>Events</title>
+      <link>http://localhost:1313/services/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/events/</guid>
+      <description>Engage your community via exciting events. We have a wealth of experience executing immersive experiences across all categories and scales, whether its big or small, planning, marketing or execution in its entirety, we can handle your events to perfection.</description>
+    </item>
+    <item>
       <title>Photography</title>
       <link>http://localhost:1313/services/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/services/photography/</guid>
       <description>Bringing your vision to life. We specialize in creating high-quality headshots for individuals and businesses. Whether you need event, product or real estate photography, with visual storytelling at our core we have the expertise to bring your vision to life.</description>
+    </item>
+    <item>
+      <title>Thank You!</title>
+      <link>http://localhost:1313/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thanks/</guid>
+      <description></description>
     </item>
     <item>
       <title>The &#39;A&#39; in &#39;AI&#39;: Getting Started</title>
