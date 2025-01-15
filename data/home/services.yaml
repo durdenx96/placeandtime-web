@@ -10,18 +10,18 @@ content:
       text: "Build professional, user-friendly websites that convert visitors into customers through compelling design and intuitive user experiences."
       button:
         label: "Learn more"
-        url: "/services"
+        url: "/services/web_dev"
 
     - image: "images/services-SEO.webp"
       title: "Search 'Everywhere' Optimization"
       text: "Improve your search rankings across major platforms to get found by the right customers where they are."
       button:
         label: "Learn more"
-        url: "/services"
+        url: "/services/digital_marketing"
 
     - image: "images/services-SMM.webp"
       title: "Digital Marketing"
       text: "Build brand awareness, target customer touchpoints and drive meaningful engagements across platforms."
       button:
         label: "Learn more"
-        url: "/services"
+        url: "/services/digital_marketing"
