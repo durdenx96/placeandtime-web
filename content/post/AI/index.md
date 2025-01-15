@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "The 'A' in 'AI': Getting Started"
-description = "Artificial. Automated. Auxiliary. Augmented. Assisted."
+description = "Artificial - Automated - Auxiliary - Augmented - Assisted - Intelligence."
 tags = ["ai","artificial_intelligence","chatGPT"]
 +++
 
@@ -12,7 +12,7 @@ I asked ChatGPT to write me a joke...
 "Why did the AI go to therapy?
 Because it was feeling existential and questioning its purpose." 
 
-First time I actually got a funny one in less than 5 tries. Granted ChatGPT might not be on comedic par with Kat Williams anytime soon, everyone that makes a career of digital services understands The ramifications. "AI", although incredibly hyped, has changed the way we work, the way we interact with and consume data. Smarter, faster and better. From automating mundane tasks to unlocking new levels of creativity and efficiency, AI can be a powerful tool for businesses of all sizes. But how exactly can you leverage this cutting-edge technology to boost your bottom line? Let's dive in.
+First time I actually got a funny one in less than 5 tries. Granted ChatGPT might not be on comedic par with Kat Williams anytime soon, everyone that makes a career of digital services understands The ramifications. "AI", although incredibly hyped, has changed the way we work, the way we interact with and consume data. From automating mundane tasks to unlocking new levels of creativity and efficiency, AI can be a powerful tool for businesses of all sizes. But how exactly can you leverage this cutting-edge technology to boost your bottom line? Let's dive in.
 
 1. Automate Repetitive Tasks:
 

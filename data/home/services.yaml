@@ -14,14 +14,14 @@ content:
 
     - image: "images/services-SEO.webp"
       title: "Search Everywhere Optimization"
-      text: "Improve your search rankings across major platforms to get found by the right customer where they are."
+      text: "Improve your search rankings across major platforms to get found by the right customers where they are."
       button:
         label: "Learn more"
         url: "/services"
 
     - image: "images/services-SMM.webp"
       title: "Digital Marketing"
-      text: "Build brand awareness, target customer touchpoints and drive meaningful engagement across platforms with user generated content."
+      text: "Build brand awareness, target customer touchpoints and drive meaningful engagements across platforms."
       button:
         label: "Learn more"
         url: "/services"

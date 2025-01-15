@@ -2,7 +2,7 @@ enabled: true
 id: "cta"
 
 content:
-  title: "..is to scale your digital presence in one month!"
+  title: "... is scale your digital presence in one month!"
   image: "images/cta-scale.webp"
   button:
     label: "Let's talk"
