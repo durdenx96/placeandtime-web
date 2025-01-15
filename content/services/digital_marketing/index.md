@@ -7,4 +7,4 @@ type = "list"
 
 ### Increase your online visibility.
 
-Our **data-driven** approach ensures you reach your target audience, build brand awareness, and drive website traffic. Utilizing Search Engine Optimization (SEO), social media marketing and advertising, we will get you in front of the right people fast.
+Our **data-driven** approach ensures you reach your target audience, build brand awareness, and drive website traffic. Our copywriting, SEO, social media marketing and advertising, will get you in front of the right people fast.
